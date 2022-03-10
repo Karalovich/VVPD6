@@ -68,4 +68,4 @@ ____
 
 ## Результаты
 Ниже предоставлены результаты тестирования через pytest, а также пример вставки изображения:
-![image](https://user-images.githubusercontent.com/90208961/157606665-786b9c82-e08e-4972-a91d-afa4e7f4d9cd.png)
+![image](https://user-images.githubusercontent.com/90208961/157606781-c57262ec-b69e-415d-856d-76bcfb31fc1d.png)
